@@ -1,8 +1,8 @@
-# InverseCDFDistributions
+# QuantilePriors
 
-[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://jkbest2.github.io/InverseCDFDistributions.jl/stable)
-[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://jkbest2.github.io/InverseCDFDistributions.jl/dev)
-[![Build Status](https://github.com/jkbest2/InverseCDFDistributions.jl/workflows/CI/badge.svg)](https://github.com/jkbest2/InverseCDFDistributions.jl/actions)
-[![Coverage](https://codecov.io/gh/jkbest2/InverseCDFDistributions.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/jkbest2/InverseCDFDistributions.jl)
+[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://jkbest2.github.io/QuantilePriors.jl/stable)
+[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://jkbest2.github.io/QuantilePriors.jl/dev)
+[![Build Status](https://github.com/jkbest2/QuantilePriors.jl/workflows/CI/badge.svg)](https://github.com/jkbest2/QuantilePriors.jl/actions)
+[![Coverage](https://codecov.io/gh/jkbest2/QuantilePriors.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/jkbest2/QuantilePriors.jl)
 [![Code Style: Blue](https://img.shields.io/badge/code%20style-blue-4495d1.svg)](https://github.com/invenia/BlueStyle)
 [![ColPrac: Contributor's Guide on Collaborative Practices for Community Packages](https://img.shields.io/badge/ColPrac-Contributor's%20Guide-blueviolet)](https://github.com/SciML/ColPrac)

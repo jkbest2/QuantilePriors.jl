@@ -1,14 +1,14 @@
-using InverseCDFDistributions
+using QuantilePriors
 using Documenter
 
 makedocs(;
-    modules=[InverseCDFDistributions],
+    modules=[QuantilePriors],
     authors="John Best <jkbest@gmail.com> and contributors",
-    repo="https://github.com/jkbest2/InverseCDFDistributions.jl/blob/{commit}{path}#L{line}",
-    sitename="InverseCDFDistributions.jl",
+    repo="https://github.com/jkbest2/QuantilePriors.jl/blob/{commit}{path}#L{line}",
+    sitename="QuantilePriors.jl",
     format=Documenter.HTML(;
         prettyurls=get(ENV, "CI", "false") == "true",
-        canonical="https://jkbest2.github.io/InverseCDFDistributions.jl",
+        canonical="https://jkbest2.github.io/QuantilePriors.jl",
         assets=String[],
     ),
     pages=[
@@ -17,5 +17,5 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/jkbest2/InverseCDFDistributions.jl",
+    repo="github.com/jkbest2/QuantilePriors.jl",
 )

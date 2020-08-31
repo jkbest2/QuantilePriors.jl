@@ -1,12 +1,12 @@
 ```@meta
-CurrentModule = InverseCDFDistributions
+CurrentModule = QuantilePriors
 ```
 
-# InverseCDFDistributions
+# QuantilePriors
 
 ```@index
 ```
 
 ```@autodocs
-Modules = [InverseCDFDistributions]
+Modules = [QuantilePriors]
 ```

@@ -1,6 +1,6 @@
-using InverseCDFDistributions
+using QuantilePriors
 using Test
 
-@testset "InverseCDFDistributions.jl" begin
+@testset "QuantilePriors.jl" begin
     # Write your tests here.
 end

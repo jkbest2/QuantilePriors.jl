@@ -27,7 +27,7 @@ version = "0.25.2"
 deps = ["Markdown"]
 uuid = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
 
-[[InverseCDFDistributions]]
+[[QuantilePriors]]
 path = ".."
 uuid = "dcce4f44-1f7d-469d-bbb1-a954f1a2788e"
 version = "0.1.0"
